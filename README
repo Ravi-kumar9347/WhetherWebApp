@@ -1,0 +1,46 @@
+# Weather Web App
+
+Welcome to the Weather Web App, a simple React application for checking real-time weather information.
+
+## Overview
+
+This project is bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and utilizes a Weather API to provide accurate and up-to-date weather details.
+
+## Getting Started
+
+### Prerequisites
+
+Make sure you have the following installed on your machine:
+
+- [Node.js](https://nodejs.org/)
+- [npm](https://www.npmjs.com/)
+
+### Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/Ravi-kumar9347/WhetherWebApp.git
+
+Navigate to the project directory:
+cd WhetherWebApp
+
+Install dependencies:
+npm install
+
+Start the development server:
+npm start
+Open your browser and visit http://localhost:3000 to view the Weather Web App.
+
+Build for Production
+To build the app for production, run:
+
+npm run build
+This will create an optimized production build in the build folder.
+
+Features
+Real-time Updates: Utilizes a Weather API for accurate and up-to-date weather information.
+Responsive Design: Accessible on all devices for a seamless user experience.
+
+
+

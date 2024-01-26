@@ -1,0 +1,7 @@
+/* WhetherDesp.css */
+@media (max-width: 767px) {
+    .responsive-div p, h5 {
+      font-size: 12px
+    }
+  }
+  
